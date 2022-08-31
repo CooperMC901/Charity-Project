@@ -34,3 +34,79 @@ html {
 
 
 }
+
+.midcard {
+    display: flex;
+    background-color: #12173F;
+    width: fit-content;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+    border: 3px solid #F5B112;
+    border-radius: 5px;
+    
+}
+
+.carpic {
+    border: 3px solid #F5B112;
+    height: 200px;
+    width: 150px;
+    margin-right: 100px;
+
+}
+
+.bedpic {
+    border: 3px solid #F5B112;
+    height: 200px;
+    width: 150px;
+    margin-right: 50px;
+}
+
+.upclosepic {
+    border: 3px solid #F5B112;
+    width: 150px;
+}
+
+.leftside {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #5D76A9;
+    text-decoration:none;
+
+}
+
+.aboutdesc {
+    width: 175px;
+}
+
+.middle {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #5D76A9;
+    text-decoration:none;
+}
+
+.howtohelp {
+    width: 175px;
+    padding-bottom: 150px;
+}
+
+.right {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #5D76A9;
+    text-decoration:none;
+}
+
+.impact {
+    width: 175px;
+}
+
+.locationbutton {
+    /* display: block; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #5D76A9;
+
+}
