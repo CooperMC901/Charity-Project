@@ -1,0 +1,39 @@
+html {
+    background-color: #707271;
+}
+
+.donatecard {
+    background-color: #12173F;
+    color: #5D76A9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 75px;
+    width: 750px;
+    border: 3px solid #F5B112;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 200px;
+}
+
+.donatedesc {
+    text-decoration: underline;
+}
+
+.button {
+    margin-top: 125px;
+    background-color:#F5B112;
+    color:#12173F;
+    padding: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border: 3px solid #5D76A9;
+    border-radius: 3px;
+    transition-duration: 0.5s;
+
+}
+
+.button:hover {
+    background-color: #5D76A9;
+    color: #12173F;
+}
